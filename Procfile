@@ -1,1 +1,1 @@
-web: python finalproject.py $PORT
+web: python finalproject.py runserver --host 0.0.0.0 --port ${5000}
